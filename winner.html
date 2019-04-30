@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html  xmlns:th="http://www.thymeleaf.org">
+<head>
+<title>Winner!!!</title>
+<link rel = "stylesheet" type = "text/css" href="css/custom.css">
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+</head>
+<body BGCOLOR="GREY">
+ <BLINK> <h1> Congratulations!!!</h1></BLINK>
+ <br>
+ <div class ="home1">
+<a href="index.html">Home</a>
+</div>
+<br>
+ <center>
+  <h3>  You are a winner!!!</h3>
+  <br>
+  <h4>You are a winner!!!</h4>
+  <br>
+  <h5>You are a winner!!!</h5>
+
+  <FONT SIZE = "30px">
+		<p th:text="'Your Jordan ' + ${shoe.num} +' in a size ' + ${shoe.size} + ' is on the way...' " />
+		</FONT>
+</center>		
+</body>
+<div class="backB">
+<a href="shoe">Back</a>
+</div>
+</html>

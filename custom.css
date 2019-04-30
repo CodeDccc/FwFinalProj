@@ -1,0 +1,220 @@
+@charset "UTF-8";
+
+h1{
+	color:RED;
+	width:80%;
+	margin:auto;
+	text-align:center;
+	font-size:70px;
+	
+}
+
+square1{
+	
+}
+.holder{
+	width:80%;
+	margin:auto;
+	alignment:center;
+	top:40px;
+}
+#show{
+	width:80%;
+	height:300px;
+	padding:auto;
+	text-align:center;
+}
+#mainFooter{
+	font-size:10px;
+	width:80%;
+	margin:auto;
+	text-align:center;
+	
+}
+.nextB{
+	text-align:right;
+
+}
+.backB{
+	text-align:left;
+	top:630px;
+}
+.home1{
+	position:absolute;
+	left:50px;
+	color:grey;
+}
+.shoes{
+	width:80%;
+	position:absolute;
+	top:70px;
+}
+
+#j1{
+	position:absolute;
+	top:505px;
+	right:500px;	
+}	
+.j1-{
+	position:absolute;
+	top:605px;
+	right:540px;
+}
+#j2{
+	position:absolute;
+	top:369px;
+	right:350px;
+}
+.j2-{
+	position:absolute;
+	top:469px;
+	right:400px;
+}
+#j3{
+	position:absolute;
+	top:15px;
+	right:5px;
+}
+.j3-{
+	position:absolute;
+	top:115px;
+	right:45px;
+	
+}
+#j4{
+	position:absolute;
+	top:135px;
+	right:350px;
+}	
+.j4-{
+	position:absolute;
+	top:235px;
+	right:405px;
+}
+#j5{
+	position:absolute;
+	top:490px;
+	right:650px;
+}
+.j5-{
+	position:absolute;
+	top:590px;
+	right:690px;
+	
+}
+#j6{
+	position:absolute;
+	top:15px;
+	right:155px;
+}
+.j6-{
+	position:absolute;
+	top:115px;
+	right:195px;
+	
+}
+#j7{
+	position:absolute;
+	top:250px;
+	right:350px;
+}	
+.j7-{
+	position:absolute;
+	top:355px;
+	right:400px;
+}
+#j8{
+	position:absolute;
+	top:360px;
+	right:690px;
+}
+.j8-{
+	position:absolute;
+	top:460px;
+	right:735px;
+	
+}
+#j9{
+	position:absolute;
+	top:15px;
+	right:757px;
+}
+.j9-{
+	position:absolute;
+	top:115px;
+	right:797px;
+}
+#j10{
+	position:absolute;
+	top:15px;
+	right:305px;
+}	
+.j10-{
+	position:absolute;
+	top:115px;
+	right:357px;
+
+	}
+#j11{
+	position:absolute;
+	top:15px;
+	right:455px;	
+}
+.j11-{
+	position:absolute;
+	top:115px;
+	right:507px;
+	
+}
+#j12{
+	position:absolute;
+	top:490px;
+	right:350px;
+}
+.j12-{
+	position:absolute;
+	top:590px;
+	right:400px;
+}
+#j13{
+	position:absolute;
+	top:15px;
+	right:607px;
+}
+.j13-{
+	position:absolute;
+	top:115px;
+	right:657px;
+}
+h2{
+	position:absolute;
+	color:red;
+	top:120px;
+	left:20px;
+}
+.guess{
+	position:absolute;
+	color:red;
+	top:190px;
+	left:20px;
+}
+h3{
+	
+	color: blue;
+	FONT-size:40px;
+}
+h4{
+	
+	color: yellow;
+	FONT-size:30px;
+}
+h5{
+	
+	color: green;
+	FONT-size:20px;
+}
+.left{
+	
+	left:50px;
+	FONT-size:100px;
+}
