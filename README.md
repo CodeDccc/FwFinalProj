@@ -13,4 +13,4 @@ Create a controller class – be sure to use the annotator ‘@controller’ so 
 
 I had to use CSS to format the layout and fonts of my pages – this is a separate page on its own and it is without its own folder, which is in the static folder.
 
-So my overall project if about some aspects of Michael Jordan’s life and at the end of the website, you have to pick a shoe and enter your shoe size to win a pair of Jordan’s.
+So my overall project is about some aspects of Michael Jordan’s life and at the end of the website, you have to pick a shoe and enter your shoe size to win a pair of Jordan’s.
